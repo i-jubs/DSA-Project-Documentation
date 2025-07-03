@@ -14,3 +14,10 @@ The Primary data source here is an Amazon Ms Excel Dataset which was provided by
    - For data cleaning
       1. Data manipulation
       2. Data munching
+
+### Data Cleaning and Preparation
+
+In the initial stage of the data cleaning and preparation, i did the following; 
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting. 
