@@ -1,2 +1,6 @@
-# DSA-Documentation
-This is where i started my portfolio while taking my data analysis class with Incubator Hub
+# DSA- Excel Documentation
+This is where i started my portfolio while taking my data analysis class with Incubator Hub using my excel project.
+
+## Project Topic: DSA Data Analysis Capstone Project (Excel)
+### Project overview
+This data analysis Project aims at providing Insights for a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. Analysis on product and customer review data is done to generate insights that can guide product improvement, marketing strategies, and customer engagement.
