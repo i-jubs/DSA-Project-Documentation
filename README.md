@@ -41,3 +41,5 @@ The following were the focus of this analysis;
 
 ### Data Analysis
 This is where i include some basic lines of code and functions used during my analysis.
+
+### Analysis
