@@ -9,4 +9,8 @@ This data analysis Project aims at providing Insights for a company that provide
 The Primary data source here is an Amazon Ms Excel Dataset which was provided by Incubator Hub for this Project.
 
 ### Tools Used
-Ms excel for data cleaning.
+- Ms excel for data cleaning.
+   - For data collection [Download Here](https://www.microsoft.com)
+   - For data cleaning
+      1. Data manipulation
+      2. Data munching
