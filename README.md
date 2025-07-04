@@ -16,7 +16,7 @@ The Primary data source here is an Amazon Ms Excel Dataset and Palmoria manageme
    - For data cleaning
       1. Data manipulation.
       2. Data munching.
-- Power query for data transformation.
+- Power query for data transformation. [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
   - For data cleaning
   - Data manipulation
 - Power bi for visualization
