@@ -99,3 +99,42 @@ The following were the focus of this analysis;
 ### Analysis
 There is a noticeable gap between genders in palmoria group; both in their number and the amount of their salary. The following files contain inferences from this company employee dataset. 
 
+![Employee dataset 1](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20employee%20table%201.png)
+**Employee dataset**
+
+![Employee dataset 2](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20employee%20table%202.png)
+**Employee dataset**
+
+
+![Question 1](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20question%201.png)
+**Question 1**
+
+![Qestion 2](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20question%202.png)
+**Question 2**
+
+
+![Question 3](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20question%203.png)
+**Question 3**
+
+
+![Question 3 contd.](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20question%203%20Contd..png)
+**Question 3 contd**
+
+![Question 3  contd](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20question%203%20contd.%202.png)
+**Question 3 contd**
+
+
+![Palmoria dataset](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20question%204.png)
+**Question 4**
+
+
+
+![Question 4 contd](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20question%204%20contd..png)
+**Question 4 contd**
+
+
+![Question 5](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20question%205.png)
+**Question 5**
+
+
+
