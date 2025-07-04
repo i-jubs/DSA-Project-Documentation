@@ -14,6 +14,8 @@ The Primary data source here is an Amazon Ms Excel Dataset which was provided by
    - For data cleaning
       1. Data manipulation.
       2. Data munching.
+- Power bi for creating visuals
+   - For data transformation/cleaning
 
 ### Data Cleaning and Preparation
 
@@ -23,6 +25,7 @@ In the initial stage of the data cleaning and preparation, i did the following;
 3. Data cleaning and formatting.
 
 ### Exploratory Data analysis (EDA)
+#### Ms excel project
 The following were the focus of this analysis;
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
@@ -43,3 +46,33 @@ The following were the focus of this analysis;
 This is where i include some basic lines of code and functions used during my analysis.
 
 ### Analysis
+
+ ![Pivot table](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Screenshot%202025-07-04%20131330.png)
+ Questions 1,2,3
+ 
+ 
+ 
+
+![Pivot table 2](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Screenshot%202025-07-04%20131439.png)
+Questions 5,8,9,10,11,13,14
+
+
+
+
+
+![Pivot table 3](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Screenshot%202025-07-04%20131515.png)
+Questions 11,14
+
+
+
+
+
+
+![Inferences](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Screenshot%202025-07-04%20131603.png)
+Questions 4,6,7,11,13,14
+
+
+
+
+![Charts](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Screenshot%202025-07-04%20131615.png)
+Questions 5,11
