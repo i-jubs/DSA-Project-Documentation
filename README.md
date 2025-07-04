@@ -136,5 +136,8 @@ There is a noticeable gap between genders in palmoria group; both in their numbe
 ![Question 5](https://github.com/i-jubs/DSA-Project-Documentation/blob/main/Palmoria%20question%205.png)
 **Question 5**
 
+### Summary
+These inferences were made based on the information on the table provided, there was no direct contact with the company to confirm the information.
+
 
 
